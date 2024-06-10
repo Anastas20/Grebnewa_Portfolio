@@ -16,6 +16,7 @@
     "styled-components": "^5.3.1",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "/Grebnewa_Portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
